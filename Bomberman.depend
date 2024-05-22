@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1713284577 source:c:\users\marco\desktop\bomberman\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+
+1716330036 source:c:\users\marco\onedrive\Área de trabalho\bomberman\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	<limits>
+	<cmath>
+	<chrono>
+	<thread>
+	<iomanip>
+	<fstream>
+	<vector>
+	"funcoes_menu.h"
+
+1714853983 c:\users\marco\onedrive\Área de trabalho\bomberman\funcoes_menu.h
+
+1715484739 source:c:\users\marco\onedrive\Área de trabalho\bomberman\funcoes_menu.cpp
+	"funcoes_menu.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	<limits>
+	<cmath>
+
